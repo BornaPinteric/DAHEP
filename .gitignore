@@ -1,0 +1,12 @@
+# large data and plots
+*.root
+*.png
+*.pdf
+
+# python / jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
